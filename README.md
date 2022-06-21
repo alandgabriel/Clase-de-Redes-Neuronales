@@ -1,14 +1,14 @@
- # Taller de Cómputo Cuántico
-## Semestre 2022-1
+ # Taller de Redes Neuronales
+## Semestre 2022-2
 
 ## Profesores
 Alan Romero Pacheco
 
 ## Objetivo
-El estudiante sera capaz de entender la mínimo teoría de la mecánica cuántica necesaria para poder implementar y desarrollar circuitos cuánticos, ésto de manera práctica. Así mismo adquirirá lo necesario para poder desarrollar circuitos que sean del interés del alumno en los distintos SDK (Qiskit, Cirq y PennyLane).
+El estudiante sera capaz de poner en práctica la teoría revisada durante el curso.
 
 ## Contenido del curso
 | No.        | Tema          |Código y apuntes |  Material complementario|
 | :-------------: |:-------------| :-----:| :-----|
-| 1.              | Representación de cúbits mediante la esfera de Bloch|  <ul> <li>[Notebook](https://colab.research.google.com/drive/1-aKIRrlbw6RhE9rgcO3VLUX3jmM35ZFv?usp=sharing)</li></ul>   | <ul> <li> [Representación de cúbits](https://qiskit.org/textbook/ch-states/representing-qubit-states.html) </li> </ul> | 
+| 1.              | Perceptron|  <ul> <li>[Code](perceptron/perceptron.py) </li> </ul> | 
 
